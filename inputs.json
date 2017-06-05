@@ -13,7 +13,7 @@
         "class": "File"
     }, 
     "REFERENCE_GENOME": {
-        "path": "data/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa", 
+        "path": "data/Homo_sapiens.GRCh37.75.dna_sm.primary_assembly.fa", 
         "class": "File"
     }
 }
